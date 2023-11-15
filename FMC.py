@@ -9,8 +9,8 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 ##Global Variables Used
 api_url = "https://fmcrestapisandbox.cisco.com/api/fmc_platform/v1/auth/generatetoken"
 server = 'https://fmcrestapisandbox.cisco.com'
-username = "garlee2"
-password = "FL6CKtM8"
+username = ""
+password = ""
 domain = "Global"
 token = ""
 headers = {
